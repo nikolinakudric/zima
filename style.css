@@ -1,0 +1,26 @@
+.tekst1{
+    color: blue;
+    background-color: cornflowerblue;
+}
+.tekst2{
+    color:blue;
+    background-color: cornflowerblue;
+}
+.v1{
+    color: crimson;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: x-large;
+}
+.v2{
+    color: darkmagenta;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: x-large;
+}
+.hladno{
+     float: left;
+     border-radius: 20%;
+     border:5px solid #434;
+    
+    
+
+}
